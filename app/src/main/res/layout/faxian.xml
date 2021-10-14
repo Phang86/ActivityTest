@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#6DDDDCDC"
+    android:id="@+id/faxian">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/pengyouquan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="45dp"
+                android:background="@color/white"
+                android:paddingLeft="8dp"
+                android:src="@drawable/pyq" />
+
+            <TextView
+                android:layout_width="290dp"
+                android:layout_height="45dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:paddingLeft="12dp"
+                android:text="朋友圈"
+                android:textSize="16dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:src="@drawable/jiantou" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/zhibo"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:paddingLeft="8dp"
+                android:src="@drawable/zhibo" />
+
+            <TextView
+                android:layout_width="290dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:paddingLeft="12dp"
+                android:text="视频号"
+                android:textSize="16dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:src="@drawable/jiantou" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/saoyisao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:paddingLeft="8dp"
+                android:src="@drawable/saoyi" />
+
+            <TextView
+                android:layout_width="290dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:paddingLeft="12dp"
+                android:text="扫一扫"
+                android:textSize="16dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:src="@drawable/jiantou" />
+
+        </LinearLayout>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="1dp" />
+
+        <LinearLayout
+            android:id="@+id/yaoyiyao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="45dp"
+                android:background="@color/white"
+                android:paddingLeft="8dp"
+                android:src="@drawable/yyy" />
+
+            <TextView
+                android:layout_width="290dp"
+                android:layout_height="45dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:paddingLeft="12dp"
+                android:text="摇一摇"
+                android:textSize="16dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:src="@drawable/jiantou" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/kanyikan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:paddingLeft="8dp"
+                android:src="@drawable/look" />
+
+            <TextView
+                android:layout_width="290dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:paddingLeft="12dp"
+                android:text="看一看"
+                android:textSize="16dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:src="@drawable/jiantou" />
+        </LinearLayout>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="1dp" />
+
+        <LinearLayout
+            android:id="@+id/souyisou"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="45dp"
+                android:background="@color/white"
+                android:paddingLeft="8dp"
+                android:src="@drawable/sss" />
+
+            <TextView
+                android:layout_width="290dp"
+                android:layout_height="45dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:paddingLeft="12dp"
+                android:text="搜一搜"
+                android:textSize="16dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:src="@drawable/jiantou" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/fujin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:paddingLeft="8dp"
+                android:src="@drawable/fujin" />
+
+            <TextView
+                android:layout_width="290dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:paddingLeft="12dp"
+                android:text="直播和附近"
+                android:textSize="16dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:src="@drawable/jiantou" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/gouwu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:paddingLeft="8dp"
+                android:src="@drawable/shopping" />
+
+            <TextView
+                android:layout_width="290dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:paddingLeft="12dp"
+                android:text="购物"
+                android:textSize="16dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:src="@drawable/jiantou" />
+        </LinearLayout>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="1dp" />
+
+        <LinearLayout
+            android:id="@+id/game"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="45dp"
+                android:background="@color/white"
+                android:paddingLeft="8dp"
+                android:src="@drawable/game" />
+
+            <TextView
+                android:layout_width="290dp"
+                android:layout_height="45dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:paddingLeft="12dp"
+                android:text="游戏"
+                android:textSize="16dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:src="@drawable/jiantou" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/xiaochengxu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:paddingLeft="8dp"
+                android:src="@drawable/xcx" />
+
+            <TextView
+                android:layout_width="290dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:paddingLeft="12dp"
+                android:text="小程序"
+                android:textSize="16dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:src="@drawable/jiantou" />
+        </LinearLayout>
+    </LinearLayout>
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent">-->
+<!--        <include layout="@layout/zhuangtailan" />-->
+<!--    </LinearLayout>-->
+
+</LinearLayout>

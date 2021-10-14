@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ActivityTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.31614583333333335" />
+        <entry key="..\:/ActivityTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22083333333333333" />
+        <entry key="..\:/ActivityTest/app/src/main/res/drawable/xialabeijing.xml" value="0.31614583333333335" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/activity_actionbar.xml" value="0.35052083333333334" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/activity_faxian.xml" value="0.23015873015873015" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/activity_me.xml" value="0.3515625" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/activity_mei.xml" value="0.2328042328042328" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/activity_test.xml" value="0.3390625" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/activity_wei.xml" value="0.34375" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/activity_wo.xml" value="0.35052083333333334" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/activity_wode.xml" value="0.35052083333333334" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/activity_zhu.xml" value="0.36614583333333334" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/activity_zhuantailan.xml" value="0.17447916666666666" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/ceshi.xml" value="0.24322916666666666" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/denglu_layout.xml" value="0.23125" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/ding_bu.xml" value="0.22" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/faxian.xml" value="0.31179775280898875" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/first_layout.xml" value="0.33" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/fruit_item.xml" value="0.265625" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/listview_layout.xml" value="0.31567028985507245" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/listview_main.xml" value="0.27717391304347827" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/main.xml" value="0.25" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/second_layout.xml" value="0.2810126582278481" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/shujuxianshi.xml" value="0.24322916666666666" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/suibian.xml" value="0.31567028985507245" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/third_layout.xml" value="0.3188405797101449" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/title.xml" value="0.3359375" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/txulu.xml" value="0.30932971014492755" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/wei.xml" value="0.17" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/wei_layout.xml" value="0.36614583333333334" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/wei_zhu.xml" value="0.2551928783382789" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/wo.xml" value="0.36614583333333334" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/wode.xml" value="0.30932971014492755" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/xiala.xml" value="0.30932971014492755" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/xiala_shuxin.xml" value="0.30932971014492755" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/zhu.xml" value="0.36614583333333334" />
+        <entry key="..\:/ActivityTest/app/src/main/res/layout/zhuangtailan.xml" value="0.25595238095238093" />
+        <entry key="..\:/ActivityTest/app/src/main/res/menu/main.xml" value="0.36614583333333334" />
+        <entry key="..\:/ActivityTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.38229166666666664" />
+        <entry key="..\:/ActivityTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.38229166666666664" />
+        <entry key="..\:/ActivityTest/project/src/main/res/layout/activity_main.xml" value="0.23020833333333332" />
+        <entry key="..\:/ActivityTest/project/src/main/res/layout/activity_normal.xml" value="0.2947916666666667" />
+        <entry key="..\:/ActivityTest/test/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/ActivityTest/two/src/main/res/layout/activity_dialog_acitivty.xml" value="0.2125" />
+        <entry key="..\:/ActivityTest/two/src/main/res/layout/activity_normal.xml" value="0.2125" />
+        <entry key="..\:/ActivityTest/two/src/main/res/layout/dialog_layout.xml" value="0.2125" />
+        <entry key="..\:/ActivityTest/two/src/main/res/layout/normal_layout.xml" value="0.2125" />
+        <entry key="..\:/android_sdk/Sdk/platforms/android-30/data/res/layout/simple_list_item_1.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
